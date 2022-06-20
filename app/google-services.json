@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18473847305",
+    "project_id": "uas1-dcc63",
+    "storage_bucket": "uas1-dcc63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18473847305:android:b9d4aaf95f8231af59c6d8",
+        "android_client_info": {
+          "package_name": "com.example.uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18473847305-l8oh62lqnjiagt5gbon8lhp9svoe5im3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5nsuBW_OscWJbXPrlAOypwneFnB40MJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18473847305-l8oh62lqnjiagt5gbon8lhp9svoe5im3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
